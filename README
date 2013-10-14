@@ -1,0 +1,6 @@
+*/////////////////////////////////////////*
+*/      Basic site template files        /*
+*/////////////////////////////////////////*
+
+
+After running 'grunt server' on the command prompt while in the project folder, edit files within the app folder to see live changes.  
